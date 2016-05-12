@@ -20,8 +20,8 @@ v1.0
 
 Screenshots:
 =======================================================================
-![](/Password-Generator/PasswordGenerator-Images/Application.jpg)
-![](/Password-Generator/PasswordGenerator-Images/Application1.jpg)
+![](PasswordGenerator-Images/Application.jpg)
+![](PasswordGenerator-Images/Application1.jpg)
 
 Contact:
 =======================================================================
