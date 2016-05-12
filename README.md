@@ -15,6 +15,11 @@ Version:
 =======================================================================
 v1.0
 
+Screenshots:
+=======================================================================
+![](https://github.com/deanbyrne95/Password-Generator/Password-Generator/PasswordGenerator-Images/Application.jpg)
+![](https://github.com/deanbyrne95/Password-Generator/Password-Generator/PasswordGenerator-Images/Application1.jpg)
+
 Contact:
 =======================================================================
 Web: http://deanbyrne95.github.io
