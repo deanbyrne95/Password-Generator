@@ -20,8 +20,8 @@ v1.0
 
 Screenshots:
 =======================================================================
-![](Password-Generator/PasswordGenerator/PasswordGenerator-Images/Application.JPG)
-![](Password-Generator/PasswordGenerator/PasswordGenerator-Images/Application1.JPG)
+![](http://github.com/deanbyrne95/Password-Generator/PasswordGenerator/PasswordGenerator-Images/Application.JPG)
+![](http://github.com/deanbyrne95/Password-Generator/PasswordGenerator/PasswordGenerator-Images/Application1.JPG)
 
 Contact:
 =======================================================================
