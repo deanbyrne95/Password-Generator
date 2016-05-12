@@ -20,8 +20,19 @@ v1.0
 
 Screenshots:
 =======================================================================
-![](https://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator-Images/ApplicationPreview.PNG)
-![](https://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator-Images/ApplicationPasswordLength.PNG)
+![Application Preview](https://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator-Images/ApplicationPreview.PNG "This is the main look of the Windows application")
+
+![Password Length](https://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator-Images/ApplicationPasswordLength.PNG "You can choose a password from 6 characters to 16 characters")
+
+![Generating a Password](https://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator-Images/GeneratedPassword.PNG "Password Generated using the length and character selection")
+
+![Saving a Password](https://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator-Images/SavePrompt.PNG "The file will be saved as a '.pass' with the date (YYYY-MM-DD). Just edit the '[Site]' text to whatever you need the password for, e.g. Facebook")
+
+![Password Save Confirmation](https://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator-Images/SaveConfirmation.PNG "A confirmation will be prompted inside the application when the file is saved")
+
+![Opening a Password](https://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator-Images/OpenPrompt.PNG "The prompt will search for a '.pass' file. Just locate it inside the directory and open")
+
+![Password Open Confirmation](https://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator-Images/OpenConfirmation.PNG "A confirmation will be prompted inside the application when the file is opened")
 
 Contact:
 =======================================================================
