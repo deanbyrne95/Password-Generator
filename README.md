@@ -20,8 +20,8 @@ v1.0
 
 Screenshots:
 =======================================================================
-![](http://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator/PasswordGenerator-Images/Application.JPG)
-![](http://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator/PasswordGenerator-Images/Application.JPG)
+![]("http://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator/PasswordGenerator-Images/Application.JPG")
+![]("http://raw.githubusercontent.com/deanbyrne95/Password-Generator/master/PasswordGenerator/PasswordGenerator-Images/Application1.JPG")
 
 Contact:
 =======================================================================
